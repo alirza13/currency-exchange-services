@@ -1,2 +1,11 @@
 
 http://localhost:8000/currency-exchange/from/USD/to/TRL
+
+
+
+API GATEWAY
+
+http://localhost:8765/currency-exchange/currency-exchange/from/USD/to/TRL
+
+
+http://localhost:8765/currency-conversion/currency-conversion-feign/from/USD/to/TRL/quantity/14
